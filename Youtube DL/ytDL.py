@@ -11,4 +11,5 @@ yd = yt.streams.get_highest_resolution() # GET HIGH RES
 
 yd.download('/Users/Graphix 2/Desktop/SLRL/CODE')
 
-#  py ytDL.py "insert url"
+#   PUT IN TERMINAL
+#   py ytDL.py "insert url"
